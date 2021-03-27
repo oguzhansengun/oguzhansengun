@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oguzhansengun
+- 👀 I’m interested in java backend development
+- 🌱 I’m currently learning spring boot and react
